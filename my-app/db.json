@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": 100,
+      "password": "yy",
+      "confirmPassword": "yy",
+      "firstName": "sus",
+      "lastName": "nall",
+      "middleName": "sdss",
+      "age": "24",
+      "address": "Hyderabad",
+      "phoneNumber": "Ssds@123",
+      "gender": "Female"
+    }
+  ]
+}  
